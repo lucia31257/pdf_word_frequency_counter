@@ -20,4 +20,4 @@ def count_pdf_fre(file_r, file_w, page_s=0, page_e=-1, word_len_min=0, word_len_
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    count_pdf_fre('/Users/lucia/Downloads/security+/REVIEW_GUIDE.pdf', 'review_guide1', 29)
+    count_pdf_fre('/REVIEW_GUIDE.pdf', 'review_guide', 29)
